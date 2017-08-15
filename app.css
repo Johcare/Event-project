@@ -181,6 +181,10 @@ button:hover, a:hover {
   background-color: grey;
 }
 
+.form-control{
+  color: #f7f7f7;
+}
+
 @media screen and (max-width: 768px) {
   .create-contain {
     margin-left: 150px 
@@ -222,6 +226,8 @@ body {
    color: limegreen;
   
   }
+
+
 
 
  
